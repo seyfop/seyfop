@@ -11,6 +11,7 @@ After producing contents for social media platforms and reaching millions of vie
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/seyfop/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/seyfop/#gh-dark-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 
 
 
