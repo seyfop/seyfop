@@ -6,13 +6,10 @@ After producing contents for social media platforms and reaching millions of vie
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://www.seyfop.com)
 [![website](./img/globe-dark.svg)](https://www.seyfop.com)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/seyfop/)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/seyfop/)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/seyfop/)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/seyfop/)
 
 
